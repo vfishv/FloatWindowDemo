@@ -9,7 +9,7 @@ import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.ViewGroup;
 
-import com.iamlarry.floatwindowdemo.R;
+import com.tencent.willisdai.demo.R;
 
 import java.io.IOException;
 

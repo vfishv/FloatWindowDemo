@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.animation.BounceInterpolator;
 
 import com.iamlarry.floatwindowdemo.drag.DragVideoView;
-import com.iamlarry.floatwindowdemo.R;
+import com.tencent.willisdai.demo.R;
 
 /**
  * @author larry on 2017/12/26.

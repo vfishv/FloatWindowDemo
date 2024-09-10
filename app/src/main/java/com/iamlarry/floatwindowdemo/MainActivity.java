@@ -9,6 +9,7 @@ import android.view.View;
 import com.iamlarry.floatwindowdemo.anim.GLSurfaceViewActivity;
 import com.iamlarry.floatwindowdemo.anim.SurfaceViewActivity;
 import com.iamlarry.floatwindowdemo.anim.TextureViewActivity;
+import com.tencent.willisdai.demo.R;
 
 public class MainActivity extends Activity implements View.OnClickListener {
     @Override

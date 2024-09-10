@@ -10,9 +10,9 @@ import android.view.Surface;
 import android.view.TextureView;
 import android.view.ViewGroup;
 
-import com.iamlarry.floatwindowdemo.R;
 import com.iamlarry.floatwindowdemo.anim.BaseActivity;
 import com.iamlarry.floatwindowdemo.anim.LarryRenderThread;
+import com.tencent.willisdai.demo.R;
 
 import java.io.IOException;
 

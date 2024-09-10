@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.view.ViewGroup;
 
-import com.iamlarry.floatwindowdemo.R;
+import com.tencent.willisdai.demo.R;
 
 public class GLSurfaceViewActivity extends BaseActivity {
 
